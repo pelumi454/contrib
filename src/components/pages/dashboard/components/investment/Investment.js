@@ -14,6 +14,7 @@ const Investment = () => {
             <AmountsInvested/>
             <AllInvestment/>
             </main>
+            hello
         </DashboardLayout>
         </>
     )
