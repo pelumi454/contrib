@@ -1,0 +1,31 @@
+.get-started {
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 0.03em;
+    color: #666666;
+}
+.silver-investment {
+    width: 508px;
+    height: 199px;
+    border: 1px solid #E6E6E6;
+    box-sizing: border-box;
+    display: flex;
+}
+
+.silverinvestment-h6 {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #002163;
+}
+.silverinvestment-p{
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.03em;
+    color: #666666;
+}
+.silverinvestment-p span{
+    color: #FD740E;;
+}
